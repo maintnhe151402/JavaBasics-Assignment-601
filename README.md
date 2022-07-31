@@ -23,6 +23,7 @@ Chuẩn: BMI từ 19 - 25
 Thừa cân: BMI từ 25 - 30 
 
 Béo - nên giảm cân: BMI 30 -  40
+![image](https://user-images.githubusercontent.com/90297035/182016227-a25b483e-344c-48b2-bf18-3ac74c00e909.png)
 
 Rất béo – cần giảm cân ngay: BMI trên 40 
 
