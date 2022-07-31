@@ -5,11 +5,8 @@ Project Descriptions:
 Viết một chương trình máy tính bao gồm các chức năng cộng, trừ, nhân, chia, tính số mũ và chỉ số BMI.
 
 Cộng, Trừ, Nhân, Chia, Tính số mũ chỉ dừng lại khi người dùng nhập =
-
 BMI được tính như sau:
-
         BMI = (trọng lượng cơ thể)/ (chiều cao x chiều cao).
-
 Trọng lượng cơ thể: tính bằng kg.
 
 Chiều cao x chiều cao: tính bằng m.
@@ -17,57 +14,14 @@ Chiều cao x chiều cao: tính bằng m.
 Hiển thị thông báo về tình trạng cơ thể cho người dùng :
 
 Dưới chuẩn: BMI ít hơn 19 
-
 Chuẩn: BMI từ 19 - 25
-
 Thừa cân: BMI từ 25 - 30 
-
 Béo - nên giảm cân: BMI 30 -  40
-![image](https://user-images.githubusercontent.com/90297035/182016227-a25b483e-344c-48b2-bf18-3ac74c00e909.png)
-
 Rất béo – cần giảm cân ngay: BMI trên 40 
 
 Yêu cầu giao diện:
 
-
-
-Yêu cầu chức năng:
-
-Điều kiện tiền đề:
-
-Người dùng chạy ứng dụng, chương trình hiển thị màn hình menu yêu cầu người dùng chọn chức năng cần sử dụng.
-
-Tiếp đó, chương trình thực hiện chức năng đã được lựa chọn và đưa ra kết quả sau đó trở về menu.
-
-Chức năng 1: Máy tính bình thường
-
-Tên hàm trong code: public double calculate(double a, Operator operator, double b)
-
-Đầu vào:
-
-a: số thứ nhất.
-
-operator: toán tử.
-
-b: số thứ hai.
-
-Giá trị trả về: kết quả tính toán.
-
-Chức năng 2: Máy tính chỉ số BMI.
-
-Tên hàm trong code: public BMI calculateBMI(double weight, double height)
-
-Đầu vào:
-
-weight: Cân nặng tính bằng kg.
-
-height: Chiều cao tính bằng cm.
-
-Giá trị trả về: Enum chứa trạng thái vào chỉ số BMI.
-
-Hướng dẫn cho học viên
-
-Gợi ý:
+![image](https://user-images.githubusercontent.com/90297035/182016227-a25b483e-344c-48b2-bf18-3ac74c00e909.png)
 
 Dùng hàm Math.pow(a, b) để tính số mũ .
 
@@ -119,6 +73,7 @@ Thoát
 
 Yêu cầu giao diện:
 
+![image](https://user-images.githubusercontent.com/90297035/182016515-1af23ad4-0288-404a-a3e5-7b451b851068.png)
 
 
 Yêu cầu chức năng:
